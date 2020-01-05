@@ -1,0 +1,2 @@
+# numpex
+Quick Numpy exercises
